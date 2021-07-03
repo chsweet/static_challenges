@@ -1,0 +1,21 @@
+p {
+  background-color: #3c3c3c;
+  color: white;
+}
+
+nav {
+  width:300px;
+  word-spacing: 50px;
+  margin: auto;
+  border: 1px solid red;
+}
+
+.login{
+  background-color: green;
+  color: white;
+  align: "right";
+}
+
+/* .larimer_square{
+  background-image: url(2.jpg);
+} */
